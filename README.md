@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DLPsamuel
+- 👋 Hi, I’m Samuel De La Paz (@DLPsamuel)
 - 👀 I’m interested in evidence-based programs, social policy, and data science for good
 - 🌱 As a graduate student at Heinz College in Public Policy and Management - Data Analytics, I am devleoping my analytical and management skills to create better outcomes through structural change for governments and other socially driven organizations.
 - 📫 How to reach me: email me at samiamdlp@gmail.com
